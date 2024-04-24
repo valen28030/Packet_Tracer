@@ -36,7 +36,7 @@
 
 <p align="justify">&nbsp;</p>
 
-![x](https://github.com/valen28030/Packet_Tracer/assets/167770750/2d301f75-1627-42e7-9e84-d8a86b1a6cd8)
+<img src="https://github.com/valen28030/Packet_Tracer/assets/167770750/2d301f75-1627-42e7-9e84-d8a86b1a6cd8" alt="1" width="500">
 
 ## Incorporar un servidor web a la red para alojar la página web de la empresa
 
@@ -141,5 +141,6 @@
 
 ## Packet Tracer
 
+![gif](https://github.com/valen28030/Packet_Tracer/assets/167770750/2b07d603-a095-4428-883d-47dd2709e69e)
 
 
