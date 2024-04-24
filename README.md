@@ -156,6 +156,6 @@
 Para obtener soporte técnico, reportar errores o proporcionar comentarios, no dudes en contactar.
 
 ---
-Este documento proporciona una visión general de la red, incluyendo sus características, tecnología utilizada, requisitos del sistema, instrucciones y créditos. Para obtener más información detallada sobre el desarrollo y funcionamiento de la red, consulta la documentación interna o comunícate con el desarrollador.
+<p align="justify">Este documento proporciona una visión general de la red, incluyendo sus características, tecnología utilizada, requisitos del sistema, instrucciones y créditos. Para obtener más información detallada sobre el desarrollo y funcionamiento de la red, consulta la documentación interna o comunícate con el desarrollador.</p>
 
 
