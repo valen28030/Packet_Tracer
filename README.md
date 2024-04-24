@@ -144,3 +144,18 @@
 ![gif](https://github.com/valen28030/Packet_Tracer/assets/167770750/2b07d603-a095-4428-883d-47dd2709e69e)
 
 
+&nbsp;
+## Créditos
+
+- **Desarrollador**: [Carlos Valencia Sánchez]
+- **Diseñador de Red**: [Carlos Valencia Sánchez]
+
+&nbsp;
+## Contacto
+
+Para obtener soporte técnico, reportar errores o proporcionar comentarios, no dudes en contactar.
+
+---
+Este documento proporciona una visión general de la red, incluyendo sus características, tecnología utilizada, requisitos del sistema, instrucciones y créditos. Para obtener más información detallada sobre el desarrollo y funcionamiento de la red, consulta la documentación interna o comunícate con el desarrollador.
+
+
