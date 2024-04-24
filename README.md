@@ -147,8 +147,8 @@
 &nbsp;
 ## Créditos
 
-- **Desarrollador**: [Carlos Valencia Sánchez]
-- **Diseñador de Red**: [Carlos Valencia Sánchez]
+- **Desarrollador**: Carlos Valencia Sánchez
+- **Diseñador de Red**: Carlos Valencia Sánchez
 
 &nbsp;
 ## Contacto
