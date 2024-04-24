@@ -36,6 +36,8 @@
 
 <p align="justify">&nbsp;</p>
 
+![x](https://github.com/valen28030/Packet_Tracer/assets/167770750/2d301f75-1627-42e7-9e84-d8a86b1a6cd8)
+
 ## Incorporar un servidor web a la red para alojar la página web de la empresa
 
 <p align="justify">Para lanzar y mantener la presencia en línea de la empresa, se propone la integración de un servidor web dedicado en la red. A continuación, se detallan los pasos necesarios para implementar esta solución:</p>
@@ -104,21 +106,40 @@
    <li>Se realizó un ping a la dirección IP de otra computadora dentro de la misma red para asegurar la conectividad interna. Se recibió una respuesta exitosa con un 0% de pérdida de paquetes.</li>
 </ul>
 
+![1](https://github.com/valen28030/Packet_Tracer/assets/167770750/7ee7b9c6-9ac3-4cb1-8d21-4baa56078f8f)
+
+&nbsp;
+
 ### Probar conexión con el Router
 <ul align="justify">
    <li>Se configuró y se probó la conexión con el router utilizando una PDU para enviar mensajes desde una computadora al router y viceversa. Además, se realizó un ping a la dirección IP del router, obteniendo una respuesta positiva en ambos casos.</li>
 </ul>
+
+![2](https://github.com/valen28030/Packet_Tracer/assets/167770750/173451d6-ce8f-4645-a291-741288821436)
+
+&nbsp;
 
 ### Probar conexión con Internet
 <ul align="justify">
    <li>Se creó una conexión a internet a través de una nube y se configuró mediante el router. Posteriormente, se probó la conexión y se obtuvo un resultado exitoso.</li>
 </ul>
 
+![3](https://github.com/valen28030/Packet_Tracer/assets/167770750/ab5f20eb-d46a-460e-a08e-91a5f5dc1c4d)
+
+![3 1](https://github.com/valen28030/Packet_Tracer/assets/167770750/3489cabe-99b9-4032-a968-4ab61c0add0c)
+
+&nbsp;
+
 ### Otras conexiones
 <ul align="justify">
    <li>Se verificó la conexión del servidor a internet mediante un ping a su dirección IP.</li>
 </ul>
 
+![4](https://github.com/valen28030/Packet_Tracer/assets/167770750/339c183c-f613-4308-85df-ab26b995346a)
+
+&nbsp;
+
+## Packet Tracer
 
 
 
